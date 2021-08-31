@@ -16,6 +16,9 @@ According to data released by the National Committee for Refugees (CONARE) in th
 
 A game about the difficulties and achievements of refugees in the world, especially those from Latin America in Brazil. The character Miraki needs to leave her home and leave her country in search of dignity and opportunities.
 
+<br>
+
+GDD - https://drive.google.com/file/d/1zS1dMieyHP6Gu3Qj0HusLZGlUZ89yC7x/view?usp=sharing
 
 <br><br>
 Team members:<br>
