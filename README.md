@@ -17,11 +17,11 @@ According to data released by the National Committee for Refugees (CONARE) in th
 A game about the difficulties and achievements of refugees in the world, especially those from Latin America in Brazil. The character Miraki needs to leave her home and leave her country in search of dignity and opportunities.
 
 
+<br><br>
+Team members:<br>
 
-Team members:
-
-Adriana Pugarito
-Fernanda Galindo
-Ingrid Ostan
-Shomaram Quispe
-Virginia Zapata
+Adriana Pugarito<br>
+Fernanda Galindo<br>
+Ingrid Ostan<br>
+Shomaram Quispe<br>
+Virginia Zapata<br>
