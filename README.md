@@ -19,11 +19,11 @@ A game about the difficulties and achievements of refugees in the world, especia
 <br>
 
 
-<br><br>
-Team members:<br>
 
-Adriana Pugarito<br>
-Fernanda Galindo<br>
-Ingrid Ostan<br>
-Shomaram Quispe<br>
-Virginia Zapata<br>
+Team members:
+
+Adriana Pugarito
+Fernanda Galindo
+Ingrid Ostan
+Shomaram Quispe
+Virginia Zapata
