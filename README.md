@@ -18,7 +18,6 @@ A game about the difficulties and achievements of refugees in the world, especia
 
 <br>
 
-GDD - https://drive.google.com/file/d/1zS1dMieyHP6Gu3Qj0HusLZGlUZ89yC7x/view?usp=sharing
 
 <br><br>
 Team members:<br>
